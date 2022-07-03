@@ -1,0 +1,18 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "muffintopamplify4fd8d57e",
+  "functionName": "muffintopamplify4fd8d57ePostConfirmation",
+  "resourceName": "muffintopamplify4fd8d57ePostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\snapshot\\repo\\build\\node_modules\\@aws-amplify\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "triggerEventPath": "PostConfirmation.event.json",
+  "roleName": "muffintopamplify4fd8d57ePostConfirmation",
+  "skipEdit": true,
+  "GROUP": "newUsers",
+  "enableCors": false
+}
